@@ -1,3 +1,5 @@
+//META{"name":"Small-members-tab","description":"make the members tab smaller and gest full size on hover","author":"Beard_Design","version":"1.0.0"}*//{}
+
 /*-------------------made by Beard Design-------------------------*/
 .channel-members{
     transform:translate(150px);
