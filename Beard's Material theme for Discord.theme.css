@@ -1,4 +1,4 @@
-//META{"name":"Beard_s_Material_theme_for_Discord","description":"V1.3.0 Released on the 21st of June, 2016","author":"Beard_Design","version":"1.3.0"}*//{}
+//META{"name":"Beard_s_Material_theme_for_Discord","description":"V1.3.2 Released on the 24th of June, 2016","author":"Beard_Design","version":"1.3.2"}*//{}
 
 /*
 ///////////////////////////////////////
@@ -231,24 +231,26 @@
 }
 
 .embed .embed-video-actions .embed-video-actions-inner {
-  background: rgba(0, 0, 0, 0.5);
-  padding: 25px;
-  border-radius: 100px;
-  transition: all 200ms ease;
+    background: #141414;
+    padding: 5px;
+    border-radius: 100px;
+    transition: all 200ms ease!important;
+    transform:scale(1.2);
+    margin-left:5px
 }
 
 .embed .embed-video-actions:hover .embed-video-actions-inner {
-  background: rgba(0, 0, 0, 0.8);
+  background: #141414;
 }
 
 .embed .embed-video-actions {
-  background-color: rgba(0, 0, 0, 0.1);
-  transition: all 200ms ease;
+  background-color: rgba(0, 0, 0, 0.2);
+  transition: all 200ms ease!important;
   border-radius: 10px;
 }
 
 .embed .embed-video-actions:hover {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .friends-table .messages .message-group a,
@@ -271,6 +273,59 @@
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
+.embed .embed-video-actions .embed-video-play{
+    background-image:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_play_arrow_black_18px.svg)!important;
+    background-color:#fff!important;
+    background-repeat: no-repeat!important;
+    background-position: 50%!important;
+    background-size:60%!important;
+    border-radius:50%;
+    opacity:1!important;
+    transform:scale(3);
+    margin-left:10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.3);
+    position:absolute;
+    z-index:2;
+    margin-top:3px;
+    transition: all 200ms ease!important;
+}
+.embed .embed-video-actions .detTubeButton.embed-video-play{
+    background-image:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_branding_watermark_white_24px.svg)!important;
+    position:absolute;
+    transform:translate(-45px,-20px)scale(1.2);
+    border-radius:50%;
+    background-color:#141414!important;
+    background-repeat: no-repeat!important;
+    background-position: 50%!important;
+    background-size:60%!important;
+    opacity:0!important;
+    transition:all 200ms ease!important;
+}
+.embed .embed-video-actions:hover .detTubeButton.embed-video-play{
+    opacity:0.8!important
+}
+.embed .embed-video-actions:hover .detTubeButton.embed-video-play:hover{
+    opacity:1!important
+}
+.embed-video-play:hover{
+    box-shadow: 0 1px 3px rgba(0,0,0,.7)!important
+}
+.embed-video-actions.detTubeFloatingWrapper .embed-video-actions-inner .detTubeButton{
+    background-image:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_branding_watermark_white_24px.svg)!important;
+}
+.embed-video-actions.detTubeFloatingWrapper{
+    background:transparent!important
+}
+.embed-video-popout{
+    background-image:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_open_in_new_white_18px.svg)!important;
+    transform:scale(1);
+    margin-top:3px!important;
+    margin-right:5px;
+    transition:all 200ms ease!important;
+}
+.embed .embed-video-actions:hover .embed-video-popout{
+    margin-left:50px
+}
 .modal .modal-inner:hover {
   transition: all 300ms ease
 }
@@ -1146,4 +1201,53 @@ flex-horizontal flex-spacer content-inner {}
 .private-channels .search-result.selected:before,
 .private-channels .search-result:hover:before {
   border-left: 0px!important;
+}
+.detTubeWindow{
+    background:rgba(0,0,0,0.5)!important;
+    padding:10px!important;
+    border-radius:10px!important;
+    border-bottom:20px!important
+}
+.embed.detTube_detached .embed-provider{
+    margin-right:10px;
+    margin-left:2px
+}
+.embed.detTube_detached .embed-provider:hover{
+    opacity:0.8;
+}
+.embed.detTube_detached .embed-author:hover{
+    opacity:0.8;
+}
+.channel-pins-wrap{
+    background:#212121!important;
+    border:2px solid #141414!important;
+    box-shadow:0 10px 20px rgba(0,0,0,0.3)!important;
+}
+.channel-pins-wrap .channel-pins .message-group{
+    background:#141414!important;
+    border: 0px !important
+}
+.channel-pins-wrap .header{
+    background:#141414!important
+}
+.sink-interactions .clickable.action-buttons{
+    background:#303030!important;
+}
+.jump-button{
+    background:#212121!important;
+    border-radius:100px!important;
+}
+.channel-pins-wrap .channel-pins .message-group .action-buttons{
+    box-shadow:0 0 0 transparent!important;
+    border:4px solid #303030!important;
+    background:#303030!important;
+    border-radius:100px;
+    opacity:0;
+    transition:all 100ms ease;
+}
+.channel-pins-wrap .channel-pins .message-group:hover .action-buttons{
+    opacity:1;
+}
+.channel-pins-wrap .footer{
+    background:#141414!important
 }
