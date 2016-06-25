@@ -3,6 +3,8 @@
 
 http://www.beard-design.com/
 
+> Thanks a lot to Nirewen#6392 Omniscient#7994 Kappa123#0193 Hammock#6027 and uri#7593 for all the help/feedback
+
 **Previews:**
 ![Full size preview](http://i.imgur.com/xDYs9yS.png)
 ![Full size preview](http://i.imgur.com/5evVY5i.png)
@@ -10,6 +12,9 @@ http://www.beard-design.com/
 ![Full size preview](http://i.imgur.com/0rfH43f.png)
 
 # Changelog:
+
+**1.3.2 -> 1.3.3**
+* bug fixing
 
 **1.3.0 -> 1.3.2**
 * edited the embed videos to match better the material design guidelines
