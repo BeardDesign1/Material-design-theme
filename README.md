@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.3.2` By Beard Design
+`v1.3.3` By Beard Design
 
 http://www.beard-design.com/
 
