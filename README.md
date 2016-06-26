@@ -5,6 +5,8 @@ http://www.beard-design.com/
 
 > Thanks a lot to Nirewen#6392 Omniscient#7994 Kappa123#0193 Hammock#6027 and uri#7593 for all the help/feedback
 
+Give me your feedback and report bugs [here](http://www.beard-design.com/discord-material-theme.html#feedback)
+
 **Previews:**
 ![Full size preview](http://i.imgur.com/xDYs9yS.png)
 ![Full size preview](http://i.imgur.com/5evVY5i.png)
