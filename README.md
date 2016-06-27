@@ -1,9 +1,9 @@
 # Beard's Material Design Theme
-`v1.3.3` By Beard Design
+`v1.3.4` By Beard Design
 
 http://www.beard-design.com/
 
-> Thanks a lot to Nirewen#6392 Omniscient#7994 Kappa123#0193 Hammock#6027 and uri#7593 for all the help/feedback
+> Thanks a lot to Nirewen#6392, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
 
 Give me your feedback and report bugs [here](http://www.beard-design.com/discord-material-theme.html#feedback)
 
@@ -15,6 +15,10 @@ Give me your feedback and report bugs [here](http://www.beard-design.com/discord
 
 # Changelog:
 
+**1.3.3 -> 1.3.4**
+* bug fixing
+* taken in consideration the feedback and edited the theme to be easier to use
+ 
 **1.3.2 -> 1.3.3**
 * bug fixing
 
