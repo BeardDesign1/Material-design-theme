@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.3.4` By Beard Design
+`v1.3.5` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,11 @@ Give me your feedback and report bugs [here](http://www.beard-design.com/discord
 ![Full size preview](http://i.imgur.com/0rfH43f.png)
 
 # Changelog:
+
+**1.3.4 -> 1.3.5**
+* bug fixing
+* added animations to the embed pictures/website thumbnails
+ 
 
 **1.3.3 -> 1.3.4**
 * bug fixing
