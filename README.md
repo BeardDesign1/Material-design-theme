@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.3.5` By Beard Design
+`v1.3.7` By Beard Design
 
 http://www.beard-design.com/
 
@@ -16,6 +16,15 @@ Give me your feedback and report bugs [here](http://www.beard-design.com/discord
 ![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
 
 # Changelog:
+
+**1.3.5 -> 1.3.7**
+* bug fixing
+* edited [the embed videos's look and changed the shadows for a more subtle style](http://bearddesign.s-ul.eu/WeaUipqJ)
+* edited the colors of the elements of the last discord update
+* edited [the ugly squares spinner for a smoother one](http://bearddesign.s-ul.eu/mcdvvNNH)
+* added [a little animation on the pinned messages panel](http://bearddesign.s-ul.eu/JQPSrdqo)
+* added [animations to the notification dot and the "talking" dot on the server logos](http://bearddesign.s-ul.eu/FU0M16EI)
+* added [a cool animation on the "join server" embed thingy](http://bearddesign.s-ul.eu/VMTa2QTI)
 
 **1.3.4 -> 1.3.5**
 * bug fixing
