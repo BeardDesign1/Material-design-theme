@@ -1,4 +1,4 @@
-//META{"name":"Beard_s_Material_theme_for_Discord","description":"V1.3.7 Released on the 14th of July, 2016","author":"Beard_Design","version":"1.3.7"}*//{}
+//META{"name":"Beard_s_Material_theme_for_Discord","description":"V1.3.8 Released on the 16th of July, 2016","author":"Beard_Design","version":"1.3.8"}*//{}
 
 /*
 ///////////////////////////////////////
@@ -1006,7 +1006,7 @@ flex-horizontal flex-spacer content-inner {}
   padding-left: 35px;
   margin-left: 15px;
   transition: all 100ms ease;
-  margin-top: 6px;
+  margin-top: 3px;
 }
 
 .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(2):before {
@@ -1555,4 +1555,18 @@ http://bearddesign.s-ul.eu/nSU2MzQW{}
 }
 .settings-connections-wrapper.flex-vertical{
     background:#fff
+}
+.account {
+    margin-bottom: 0px !important;
+}
+.username {
+    color:#ACACAC!important;
+}
+
+.discriminator {
+    color:#666666!important;
+}
+
+.channel-textarea.has-results {
+  color: #fff;
 }
