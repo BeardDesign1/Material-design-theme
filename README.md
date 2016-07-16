@@ -3,7 +3,7 @@
 
 http://www.beard-design.com/
 
-> Thanks a lot to Nirewen#6392, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
+> Thanks a lot to Dallagen#3602, Nirewen#6392, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
 
 Give me your feedback and report bugs [here](http://www.beard-design.com/discord-material-theme.html#feedback)
 
