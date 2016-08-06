@@ -12,6 +12,64 @@
 /!\ DO NOT RECOLOR AND POST IT AS YOUR OWN THEME
 */
 
+/* DEEP PURPLE */
+/*-----ACCENT-----*/
+
+.channel-members .bot-tag,
+.message-group .comment .markup .highlight:hover,
+#bd-customcss-detach-container #bd-customcss-detach-controls-buttons button,
+.install-button,
+.slider-bar-fill,
+.form .btn-primary,
+.checkbox .checkbox-inner input[type=checkbox]:checked+span,
+#user-profile-modal .header,
+#user-profile-modal .btn,
+.btn.add-friend,
+.user-popout .header{
+    background-color:#673AB7!important; /*<--[500*/
+}
+
+.user-settings-modal a,
+.form .control-group label a,
+.tab-bar.TOP .tab-bar-item.selected{
+    
+    color:#673AB7!important; /*<-------------[500*/
+}
+
+.form .control-group input[type=email]:focus,
+.form .control-group input[type=number]:focus,
+.form .control-group input[type=password]:focus,
+.form .control-group input[type=text]:focus,
+.form .control-group textarea:focus,
+.checkbox .checkbox-inner input[type=checkbox]:checked+span,
+.tab-bar.TOP .tab-bar-item.selected{
+    border-color:#673AB7!important; /*<------[500*/
+}
+
+.form header,
+.user-settings-modal a:hover,
+.form .control-group label a:hover{
+    
+    color:#512DA8!important; /*<-------------[700*/
+}
+
+#bd-customcss-detach-container #bd-customcss-detach-controls-buttons button:hover,
+.install-button:hover,
+.slider .slider-handle,
+#friends .btn:hover,
+.form .btn-primary:hover,
+.radio .radio-inner span:after,
+#user-profile-modal .btn:hover{
+    
+    background-color:#512DA8!important; /*<--[700*/
+}
+
+.highlight{
+    
+    color:#7E57C2!important; /*<-------------[400*/
+}
+
+/*-----/ACCENT-----*/
 
 /*-----------------------------------------------*/
 
