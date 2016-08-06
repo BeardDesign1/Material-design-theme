@@ -13,9 +13,8 @@ Give me your feedback and report bugs [here](http://www.beard-design.com/discord
 ![Full size preview](http://bearddesign.s-ul.eu/Rn8Rvszy.png)
 ![Full size preview](http://bearddesign.s-ul.eu/B1Xut22B.png)
 ![Full size preview](http://bearddesign.s-ul.eu/QMppGPs9.png)
-![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
-![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
-![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
+![Full size preview](http://bearddesign.s-ul.eu/U0qSOi2m.png)
+![Full size preview](http://bearddesign.s-ul.eu/fL64UIAn.png)
 
 # Changelog:
 **1.3.8 -> 1.4.0**
