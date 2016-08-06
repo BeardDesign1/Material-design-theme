@@ -8,11 +8,13 @@ http://www.beard-design.com/
 Give me your feedback and report bugs [here](http://www.beard-design.com/discord-material-theme.html#feedback)
 
 **Previews:**
-![Full size preview](http://bearddesign.s-ul.eu/C0Xhzu7v)
-![Full size preview](http://bearddesign.s-ul.eu/H9YPwxjH)
-![Full size preview](http://bearddesign.s-ul.eu/x4aIT5Zf)
-![Full size preview](http://bearddesign.s-ul.eu/feqVDVEO)
-![Full size preview](http://bearddesign.s-ul.eu/HEbs64O2)
+![Full size preview](http://bearddesign.s-ul.eu/hCdqAnvH.png)
+![Full size preview](http://bearddesign.s-ul.eu/Sf5YivHy.png)
+![Full size preview](http://bearddesign.s-ul.eu/Rn8Rvszy.png)
+![Full size preview](http://bearddesign.s-ul.eu/B1Xut22B.png)
+![Full size preview](http://bearddesign.s-ul.eu/QMppGPs9.png)
+![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
+![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
 ![Full size preview](http://bearddesign.s-ul.eu/wuP5Ka4F)
 
 # Changelog:
