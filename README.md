@@ -1,11 +1,9 @@
 # Beard's Material Design Theme
-`v1.4.0` By Beard Design
+`v1.4.3` By Beard Design
 
 http://www.beard-design.com/
 
 > Thanks a lot to Dallagen#3602, Nirewen#6392, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
-
-Give me your feedback and report bugs [here](http://www.beard-design.com/discord-material-theme.html#feedback)
 
 **Previews:**
 ![Full size preview](http://bearddesign.s-ul.eu/hCdqAnvH.png)
@@ -17,11 +15,16 @@ Give me your feedback and report bugs [here](http://www.beard-design.com/discord
 ![Full size preview](http://bearddesign.s-ul.eu/fL64UIAn.png)
 
 # Changelog:
+**1.4.0 -> 1.4.3**
+* edited the calls
+* edited the [GIF] icon on gifs
+* edited some more of the icons
+* added a [DEV] tag on right of my name
+
 **1.3.8 -> 1.4.0**
 * bug fixing
 * edited the colors/icons of the elements of the last discord update
  
-
 **1.3.7 -> 1.3.8**
 * bug fixing
  
