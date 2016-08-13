@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.4.3` By Beard Design
+`v1.4.4` By Beard Design
 
 http://www.beard-design.com/
 
@@ -15,6 +15,10 @@ http://www.beard-design.com/
 ![Full size preview](http://bearddesign.s-ul.eu/fL64UIAn.png)
 
 # Changelog:
+
+**1.4.3 -> 1.4.4**
+* [quick fix of a bug](https://gyazo.com/739c16f47c8c70350dee45013c33c3e9)
+
 **1.4.0 -> 1.4.3**
 * edited the calls
 * edited the [GIF] icon on gifs
