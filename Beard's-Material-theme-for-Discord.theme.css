@@ -1,4 +1,4 @@
-//META{"name":"Beard_s_Material_theme_for_Discord","description":"V1.4.3 Released on the 29th of July, 2016","author":"Beard_Design","version":"1.4.3"}*//{}
+//META{"name":"Beard_s_Material_theme_for_Discord","description":"V1.4.0 Released on the 29th of July, 2016","author":"Beard_Design","version":"1.4.0"}*//{}
 
 /*
 ///////////////////////////////////////
@@ -9,9 +9,11 @@
 
 ///////////////////////////////////////
 
-/!\ DO NOT RECOLOR AND POST IT AS YOUR OWN THEME /!\
-
+/!\ DO NOT RECOLOR AND POST IT AS YOUR OWN THEME
 */
+
+
+/*-----------------------------------------------*/
 
 .message-group .comment .markup .highlight {
   background: rgba(255, 255, 255, 0.05)
@@ -187,10 +189,6 @@
 .scroller-wrap,
 .scroller-wrap .scroller {
   background: transparent;
-}
-
-.flex-vertical {
-  background: #212121;
 }
 
 .private-channels,
@@ -1965,11 +1963,6 @@ div.platform-win .user-settings-modal .tab-bar.SIDE .tab-bar-item:nth-of-type(14
   z-index: 0;
 }
 
-.titlebar {
-  z-index: 1;
-  height: 10px!important;
-}
-
 .titlebar-edge {
   height: 2px;
 }
@@ -2212,6 +2205,10 @@ code:hover .copybutton {
   opacity: 1;
 }
 
+.incoming-call .options .option {
+  border-radius: 100px;
+}
+
 
 /*-----/CALLS-----*/
 
@@ -2330,4 +2327,40 @@ code:hover .copybutton {
 
 .channel-textarea-inner textarea {
   background: transparent
+}
+
+::-moz-selection {
+  background: #A1B0E3;
+  color: #fff;
+}
+
+::selection {
+  background: #A1B0E3;
+  color: #fff;
+}
+
+.friends-table .messages .divider:not(.red) div,
+.messages-wrapper .messages .divider:not(.red) div {
+  background: rgba(255, 255, 255, .1)!important;
+  height: 2px
+}
+
+.friends-table .messages .divider:not(.red) span,
+.messages-wrapper .messages .divider:not(.red) span {
+  color: rgba(255, 255, 255, .5)!important
+}
+
+.friends-table .messages .divider.divider-red>div,
+.messages-wrapper .messages .divider.divider-red>div {
+  background: #F44336!important;
+  opacity: 0.2!important;
+}
+
+.friends-table .messages .divider.divider-red>span,
+.messages-wrapper .messages .divider.divider-red>span {
+  color: #F44336!important
+}
+
+.guild-channels {
+  background: #212121!important
 }
