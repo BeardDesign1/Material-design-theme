@@ -1,20 +1,28 @@
 # Beard's Material Design Theme
-`v1.4.4` By Beard Design
+`v1.5.0` By Beard Design
 
 http://www.beard-design.com/
 
 > Thanks a lot to Dallagen#3602, Nirewen#6392, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
 
 **Previews:**
-![Full size preview](http://bearddesign.s-ul.eu/hCdqAnvH.png)
-![Full size preview](http://bearddesign.s-ul.eu/Sf5YivHy.png)
-![Full size preview](http://bearddesign.s-ul.eu/Rn8Rvszy.png)
-![Full size preview](http://bearddesign.s-ul.eu/B1Xut22B.png)
-![Full size preview](http://bearddesign.s-ul.eu/QMppGPs9.png)
-![Full size preview](http://bearddesign.s-ul.eu/U0qSOi2m.png)
-![Full size preview](http://bearddesign.s-ul.eu/fL64UIAn.png)
+![Full size preview](https://bearddesign.s-ul.eu/dXvaK1uv.png)
+![Full size preview](https://bearddesign.s-ul.eu/p7pvMg7i.png)
+![Full size preview](https://bearddesign.s-ul.eu/wZJiBqy7.png)
+![Full size preview](https://bearddesign.s-ul.eu/NPvI0ta2.png)
+![Full size preview](https://bearddesign.s-ul.eu/eZ6vU8Zi.png)
+![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.4.4 -> 1.5.0**
+* **No Need to update the theme anymore! It automatically updates itself!** all the informations you need are in the theme description in the BD settings ([here](https://bearddesign.s-ul.eu/DoE6lWN6.png))
+* [made the messages into material speech bubbles](https://bearddesign.s-ul.eu/jGOBiglg.png)
+* [finally made the radio buttons and checkboxes look and animate accurately(took me 7h+)](https://bearddesign.s-ul.eu/sVr5Aoc5.gif)
+* [edited the style of select lists](https://bearddesign.s-ul.eu/6z0BDWV8.png)
+* [edited the style of sliders to make them look more accurate](https://bearddesign.s-ul.eu/kSvVFRwY.png)
+* fixed the "flashing usernames" bug
+* styled the components from the last Discord update(skype/steam/battle.net integration)
+* fixed some bugs
 
 **1.4.3 -> 1.4.4**
 * [quick fix of a bug](https://gyazo.com/739c16f47c8c70350dee45013c33c3e9)
