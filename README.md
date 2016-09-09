@@ -14,6 +14,9 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.5.0 -> 1.5.1**
+* fixed the emoji bug
+
 **1.4.4 -> 1.5.0**
 * **No Need to update the theme anymore! It automatically updates itself!** all the informations you need are in the theme description in the BD settings ([here](https://bearddesign.s-ul.eu/DoE6lWN6.png))
 * [made the messages into material speech bubbles](https://bearddesign.s-ul.eu/jGOBiglg.png)
