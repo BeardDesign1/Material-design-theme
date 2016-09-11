@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.5.0` By Beard Design
+`v1.5.5` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,13 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.5.3 -> 1.5.5**
+* styled the components from the last Discord update(new server menu)
+* added an animation to the arrow of the server menu(1h of work)
+
+**1.5.1 -> 1.5.3**
+* bug fixing
+
 **1.5.0 -> 1.5.1**
 * fixed the emoji bug
 
