@@ -14,9 +14,15 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.5.5 -> 1.5.8**
+* Made the Jumbo emojis bigger
+* fixed bug
+* [new profiles!](https://bearddesign.s-ul.eu/wy6Q1zLv.png)
+* [changed the look of user popouts!](https://bearddesign.s-ul.eu/HZgjcUBO.png)
+
 **1.5.3 -> 1.5.5**
 * styled the components from the last Discord update(new server menu)
-* added an animation to the arrow of the server menu(1h of work)
+* added an animation to the arrow of the server menu(2h of work)
 
 **1.5.1 -> 1.5.3**
 * bug fixing
