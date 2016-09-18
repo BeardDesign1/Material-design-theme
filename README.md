@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.5.6` By Beard Design
+`v1.5.9` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,7 +14,7 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
-**1.5.5 -> 1.5.8**
+**1.5.5 -> 1.5.9**
 * Made the Jumbo emojis bigger
 * fixed bug
 * [new profiles!](https://bearddesign.s-ul.eu/wy6Q1zLv.png)
