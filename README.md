@@ -20,7 +20,7 @@ http://www.beard-design.com/
 
 **1.5.5 -> 1.5.9**
 * Made the Jumbo emojis bigger
-* fixed bug
+* bug fixing
 * [new profiles!](https://bearddesign.s-ul.eu/wy6Q1zLv.png)
 * [changed the look of user popouts!](https://bearddesign.s-ul.eu/HZgjcUBO.png)
 
