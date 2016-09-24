@@ -14,7 +14,7 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
-**1.5.5 -> 1.5.9**
+**1.5.9 -> 1.6.0**
 * Fixed Jumbo emojis's tooltip bug
 * [made the "add guild button" fixed on bottom left](https://bearddesign.s-ul.eu/PLtwFu4h.gif)
 
