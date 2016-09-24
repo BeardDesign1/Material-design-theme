@@ -1,9 +1,9 @@
 # Beard's Material Design Theme
-`v1.5.9` By Beard Design
+`v1.6.0` By Beard Design
 
 http://www.beard-design.com/
 
-> Thanks a lot to Dallagen#3602, Nirewen#6392, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
+> Thanks a lot to Dallagen#3602, Nirewen#9011, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
 
 **Previews:**
 ![Full size preview](https://bearddesign.s-ul.eu/dXvaK1uv.png)
@@ -14,6 +14,10 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.5.5 -> 1.5.9**
+* Fixed Jumbo emojis's tooltip bug
+* [made the "add guild button" fixed on bottom left](https://bearddesign.s-ul.eu/PLtwFu4h.gif)
+
 **1.5.5 -> 1.5.9**
 * Made the Jumbo emojis bigger
 * fixed bug
