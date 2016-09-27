@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.6.0` By Beard Design
+`v1.6.1` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,9 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.6.0 -> 1.6.1**
+* styled the components from the last Discord update(server menu/status settings)
+
 **1.5.9 -> 1.6.0**
 * Fixed Jumbo emojis's tooltip bug
 * [made the "add guild button" fixed on bottom left](https://bearddesign.s-ul.eu/PLtwFu4h.gif)
