@@ -14,6 +14,9 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.6.1 -> 1.6.2**
+* [made a new system so people with the light theme enabled need to disable it to use the theme](https://bearddesign.s-ul.eu/u6ZEC6KL.gif)
+
 **1.6.0 -> 1.6.1**
 * styled the components from the last Discord update(server menu/status settings)
 
