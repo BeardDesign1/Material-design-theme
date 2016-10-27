@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.6.6` By Beard Design
+`v1.6.7` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,9 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.6.2 -> 1.6.7**
+* Happy Halloween!
+
 **1.6.2 -> 1.6.6**
 * [added a new and improved "change status" section](https://bearddesign.s-ul.eu/wCinuwb9.gif)
 * changed the icons on profiles for flat ones
