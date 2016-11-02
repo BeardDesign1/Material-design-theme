@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.6.7` By Beard Design
+`v1.7.0` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,16 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.6.7 -> 1.7.0**
+* Changed some colors and animations to feel more "solid" and reactive
+* [Created icons for the "emojis" panel](https://bearddesign.s-ul.eu/PjHdKOBW.png)
+* Changed the "private messages" icon
+* Fixed bugs
+* Changed the look of the scrollbar to be more discrete and slimmer
+* [Changed the look of roles and made the role picker darker](https://bearddesign.s-ul.eu/DrG69tHU.png)
+* [Added a subtle ripple animation to the "account icons"](https://bearddesign.s-ul.eu/ssZhoHq9.gif)
+* Other minor tweaks
+
 **1.6.2 -> 1.6.7**
 * Happy Halloween!
 
