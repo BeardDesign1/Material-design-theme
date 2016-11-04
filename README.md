@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.7.0` By Beard Design
+`v1.7.3` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,14 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.7.0 -> 1.7.3**
+* Updated according to Discord's last update(reactions)
+* [added brand new animations to the "pins" and "mention" panels](https://bearddesign.s-ul.eu/G4I1J5nW.gif)
+* edited some of the emoji categories's icons (a lot of people didn't get what some of them represented)
+* [added new icon based emojis/twitch/favourite switcher](https://bearddesign.s-ul.eu/H9Rz35gd.png)
+* bug fixes as usual
+* And some little switches and tweaks here and there ~
+
 **1.6.7 -> 1.7.0**
 * Changed some colors and animations to feel more "solid" and reactive
 * [Created icons for the "emojis" panel](https://bearddesign.s-ul.eu/PjHdKOBW.png)
