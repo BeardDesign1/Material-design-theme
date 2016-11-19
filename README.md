@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.7.3` By Beard Design
+`v1.7.9` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,12 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.7.3 -> 1.7.9**
+* Updated the look of the 'join server' button 
+* Fixed the profiles bug
+* Added a twitter icon to embed tweets
+* Some modifications so small you cant even notice them(its magic) ~
+
 **1.7.0 -> 1.7.3**
 * Updated according to Discord's last update(reactions)
 * [added brand new animations to the "pins" and "mention" panels](https://bearddesign.s-ul.eu/G4I1J5nW.gif)
