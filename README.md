@@ -1,5 +1,5 @@
 # Beard's Material Design Theme
-`v1.7.9` By Beard Design
+`v1.8.5` By Beard Design
 
 http://www.beard-design.com/
 
@@ -14,6 +14,12 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.7.9 -> 1.8.5**
+* Made the settings 100% dark.
+* Switched all the icons from links to base64, the theme should load/run a lot faster.
+* Started theming the search feature.
+* Fixed some bugs.
+
 **1.7.3 -> 1.7.9**
 * Updated the look of the 'join server' button 
 * Fixed the profiles bug
