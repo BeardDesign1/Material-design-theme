@@ -1,11 +1,12 @@
 # Beard's Material Design Theme
-`v1.8.5` By Beard Design
+`v1.9.0` By Beard Design
 
 http://www.beard-design.com/
 
 > Thanks a lot to Dallagen#3602, Nirewen#9011, Omniscient#7994, Kappa123#0193, Hammock#6027, vaneri#9035 and uri#7593 for all the help/feedback
 
 **Previews:**
+(might be out of date)
 ![Full size preview](https://bearddesign.s-ul.eu/dXvaK1uv.png)
 ![Full size preview](https://bearddesign.s-ul.eu/p7pvMg7i.png)
 ![Full size preview](https://bearddesign.s-ul.eu/wZJiBqy7.png)
@@ -14,6 +15,15 @@ http://www.beard-design.com/
 ![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
 
 # Changelog:
+**1.8.5 -> 1.9.0**
+* Deleted the collapsible call function
+* Made the color pill visible for embeds with custom ones(Also made it look cool).
+* Customised the Nitro icon in the settings as well as the page.
+* New Spinners! These ones are actually material styled yaay!
+* Edited file icons(when you upload a file to a chat), I might be missing a few so please report it if you see a weird looking one.
+* Made the emoji search bar easier to read and better looking.
+* Fixed a LOT of bugs.
+
 **1.7.9 -> 1.8.5**
 * Made the settings 100% dark.
 * Switched all the icons from links to base64, the theme should load/run a lot faster.
