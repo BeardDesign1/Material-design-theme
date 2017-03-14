@@ -1,3 +1,4 @@
+## This theme is still worked on! I just don't need to update this repository since the theme has an auto update system.
 # Beard's Material Design Theme
 `v1.9.0` By Beard Design
 
