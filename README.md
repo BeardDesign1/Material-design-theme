@@ -2,7 +2,7 @@
 # Beard's Material Design Theme
 `v1.9.0` By Beard Design
 
-http://www.beard-design.com/
+http://www.beard-design.com/discord-material-theme.html
 
 **Previews:**
 (might be out of date)
