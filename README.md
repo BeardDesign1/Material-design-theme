@@ -1,19 +1,50 @@
 ## This theme is still worked on! I just don't need to update this repository since the theme has an auto update system.
 # Beard's Material Design Theme
-`v1.9.0` By Beard Design
+`v2.0.0` By Beard Design
 
-http://www.beard-design.com/discord-material-theme.html
+#### [> Download <](http://www.beard-design.com/discord-material-theme.html)
+
+>Some people asked me to add a scrollbar to the channel list:
+>I won't add it in the main theme since I didn't find a visually nice way to implement it, but if that's really a problem for you,
+>just go to [bit.ly/ChannelScroll](http://bit.ly/ChannelScroll) and copy the text to your custom css.
 
 **Previews:**
 (might be out of date)
-![Full size preview](https://bearddesign.s-ul.eu/dXvaK1uv.png)
-![Full size preview](https://bearddesign.s-ul.eu/p7pvMg7i.png)
-![Full size preview](https://bearddesign.s-ul.eu/wZJiBqy7.png)
-![Full size preview](https://bearddesign.s-ul.eu/NPvI0ta2.png)
-![Full size preview](https://bearddesign.s-ul.eu/eZ6vU8Zi.png)
-![Full size preview](https://bearddesign.s-ul.eu/TBBZUdEc.png)
-
+![Full size preview](https://bearddesign.s-ul.eu/PsiXIwKW.png)
+![Full size preview](https://bearddesign.s-ul.eu/ZsEIVAey.png)
+![Full size preview](https://bearddesign.s-ul.eu/7TmnDqr6.png)
+![Full size preview](https://bearddesign.s-ul.eu/A0ypVHM4.png)
+![Full size preview](https://bearddesign.s-ul.eu/0PWa0fRv.png)
+![Full size preview](https://bearddesign.s-ul.eu/dshYgLRu.png)
+![Full size preview](https://bearddesign.s-ul.eu/ijIHHlbS.png)
+![Full size preview](https://bearddesign.s-ul.eu/43nTtNQR.png)
+![Full size preview](https://bearddesign.s-ul.eu/hEUhBtCA.png)
+![Full size preview](https://bearddesign.s-ul.eu/bGkvCpop.gif)
+![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
+ 
 # Changelog:
+**v1.9.2 -> v2.0.0**
+ - Changed the look + added a new animation to the server menu.
+ - Changed the look + added a new animation to the status menu.
+ - Made the streaming people's popout profiles completely purple.
+ - Changed the background of the 'reconnecting' screen.
+ - Slightly changed the look and feel of the server list.
+ - New notification animation/notification ring on server icons (more subtle and better looking than the red dot).
+ - Added ripple effect on the voice channels's arrows.
+ - Finished theming the search suggestions.
+ - Themed the ctrl+k panel(canary).
+ 
+**v1.9.3 -> v1.9.2**
+ - Themed the search suggestions (not finished yet)
+ - Fixed the 'status' bug
+
+**1.9.0 -> v1.9.3**
+ - Finished theming the search popout.
+ - Themed the 'add/join server' modal.
+ - Some more stuff that I can't remember haha.
+ - Added a cool context menu(right click menu) animation.
+ - Fixed the 'typing' bug.
+ 
 **1.8.5 -> 1.9.0**
 * Deleted the collapsible call function
 * Made the color pill visible for embeds with custom ones(Also made it look cool).
