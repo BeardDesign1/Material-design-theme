@@ -23,6 +23,13 @@
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
  
 # Changelog:
+
+**v2.0.2**
+ - Added color settings (Go see in the Custom CSS tab :D)
+ 
+**v2.0.1**
+ - Changed the color of the server notification ring to red.(after popular demand)
+ 
 **v1.9.2 -> v2.0.0**
  - Changed the look + added a new animation to the server menu.
  - Changed the look + added a new animation to the status menu.
