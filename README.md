@@ -1,6 +1,6 @@
 ## This theme is still worked on! I just don't need to update this repository since the theme has an auto update system.
 # Beard's Material Design Theme
-`v2.0.0` By Beard Design
+`v2.0.2` By Beard Design
 
 #### [> Download <](http://www.beard-design.com/discord-material-theme.html)
 
