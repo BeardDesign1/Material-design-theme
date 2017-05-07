@@ -23,11 +23,25 @@
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
  
 # Changelog:
+**v2.0.3 -> v2.0.4**
+ - Themed the new settings.
+ - Fixed the Deprecated settings bug.
+ - Made the new settings switches into material switches.
+ - Made an override system for BetterDiscord blue.
+ - Edited icons in the settings panels/added icons for the BetterDiscord settings.
+ - Added icons to the server settings.
+ - Added an animation to most text fields.
+ - Currently working on implementing a beta.
+ 
+**v2.0.2 -> v2.0.3**
+ - tweaked the look of the quickswitcher.
+ - changed the look of the 'log out' and 'delete server' buttons.
+ - fixed the look of a bunch of things.
 
-**v2.0.2**
+**v2.0.1 -> v2.0.2**
  - Added color settings (Go see in the Custom CSS tab :D)
  
-**v2.0.1**
+**v2.0.0 -> v2.0.1**
  - Changed the color of the server notification ring to red.(after popular demand)
  
 **v1.9.2 -> v2.0.0**
