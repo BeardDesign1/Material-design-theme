@@ -1,6 +1,6 @@
 ## This theme is still worked on! I just don't need to update this repository since the theme has an auto update system.
 # Beard's Material Design Theme
-`v2.0.4` By Beard Design
+`v2.0.5` By Beard Design
 
 **[> Download](http://www.beard-design.com/discord-material-theme.html)  
 [> Material theme discord server](http://bit.ly/BMTserver)**
@@ -27,6 +27,14 @@ Go to the server, download the beta theme and give feedback when you have some.
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
 
 # Changelog:
+**v2.0.4 -> v2.0.5**
+ - Remade the settings animation with pure css, should run wayyy smoother.
+ - Made the roles in the members panel colored again.
+ - Added ripple effect in the settings close button.
+ - Made the mentions as well as a lot more stuff work with the accent color.
+ - Remade the instant invite panel.
+ - Lots of bug fixing.
+ 
 **v2.0.3 -> v2.0.4**
  - Themed the new settings.
  - Fixed the Deprecated settings bug.
