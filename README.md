@@ -2,11 +2,10 @@
 # Beard's Material Design Theme
 `v2.0.4` By Beard Design
 
-#### [> Download <](http://www.beard-design.com/discord-material-theme.html)
+#### [> Download](http://www.beard-design.com/discord-material-theme.html)
+#### [> Material theme discord server](http://bit.ly/BMTserver)
 
->Some people asked me to add a scrollbar to the channel list:
->I won't add it in the main theme since I didn't find a visually nice way to implement it, but if that's really a problem for you,
->just go to [bit.ly/ChannelScroll](http://bit.ly/ChannelScroll) and copy the text to your custom css.
+>if you want to have a scrollbar in the servers channel list go to [bit.ly/ChannelScroll](http://bit.ly/ChannelScroll) and copy the text to your custom css.
 
 ### Beta program
 Want to participate to the beta and get to test stuff before it goes to the main theme?  
