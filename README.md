@@ -8,7 +8,12 @@
 >I won't add it in the main theme since I didn't find a visually nice way to implement it, but if that's really a problem for you,
 >just go to [bit.ly/ChannelScroll](http://bit.ly/ChannelScroll) and copy the text to your custom css.
 
-**Previews:**
+### Beta program
+Want to participate to the beta and get to test stuff before it goes to the main theme?  
+Go to the server, download the beta theme and give feedback when you have some.  
+[Material theme discord server](http://bit.ly/BMTserver) - [Material theme beta theme](http://bit.ly/BMTbetatheme)
+
+### Previews:
 (might be out of date)
 ![Full size preview](https://bearddesign.s-ul.eu/PsiXIwKW.png)
 ![Full size preview](https://bearddesign.s-ul.eu/ZsEIVAey.png)
@@ -21,7 +26,7 @@
 ![Full size preview](https://bearddesign.s-ul.eu/hEUhBtCA.png)
 ![Full size preview](https://bearddesign.s-ul.eu/bGkvCpop.gif)
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
- 
+
 # Changelog:
 **v2.0.3 -> v2.0.4**
  - Themed the new settings.
