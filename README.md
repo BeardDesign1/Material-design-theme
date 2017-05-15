@@ -27,6 +27,12 @@ Go to the server, download the beta theme and give feedback when you have some.
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
 
 # Changelog:
+**v2.0.6**
+ - Added color bubbles back in custom css.
+ - Replaced the theme's description by the colors cuz why not.
+ - Made the colored checkboxes colored again.
+ - LOTS and LOTS of bug fixing.
+
 **v2.0.4 -> v2.0.5**
  - Remade the settings animation with pure css, should run wayyy smoother.
  - Made the roles in the members panel colored again.
