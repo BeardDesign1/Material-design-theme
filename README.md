@@ -27,6 +27,24 @@ Go to the server, download the beta theme and give feedback when you have some.
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
 
 # Changelog:
+**v2.0.8**
+ - Themed the new channels.
+ - Made a better integration for the 'Better Formatting' plugin.
+ - Made a better integration for the 'Citador' plugin.
+ - Made the server notification settings and RTC debug panel into fullscreen settings.
+ - Changed the look of the 'back to present button'.
+ - Fixed the look of the server menu for the time being.
+ - Fixed the contributor badge tooltip displaying when hovering the name.
+ - Gave the contributor badge to more people.
+ - Fixed the look of the custom css to make it blend in more with the theme.
+ - A bunch more bug fixing.
+
+**v2.0.7**
+ - Made a new look for the mentions notifications in the server panel.
+ - Fixed a bunch of bugs.
+ - Added a ripple effect on the connections panel and changelog panel's close buttons.
+ - Added css for badges of the theme's contributors(for people who help me by suggesting stuff or reporting bugs on the server).
+
 **v2.0.6**
  - Added color bubbles back in custom css.
  - Replaced the theme's description by the colors cuz why not.
