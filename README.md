@@ -27,6 +27,31 @@ Go to the server, download the beta theme and give feedback when you have some.
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
 
 # Changelog:
+**v2.1.3**
+ - Fixed some bugs.
+ - New upload animation.
+ - Changed the look of the mention popup (when you type @... in the chat).
+ - Added ripples to the title bar buttons.
+ - New help modal.
+
+**v2.1.2**
+ - new edit message animation.
+ - bug fixing.
+
+**v2.1.1**
+ - bug fixing
+
+**v2.1.0**
+ - bug fixing.
+ - Changed the look of some stuff but nothing important.
+ - Started translating some stuff into french for people with french on.
+ -> Tell me in the server if you want me to translate the theme to your language.
+
+**v2.0.9**
+ - bug fixing.
+ - Made a better integration for the 'Quoter' plugin.
+ - Made a better integration for the 'Replyer' plugin.
+
 **v2.0.8**
  - Themed the new channels.
  - Made a better integration for the 'Better Formatting' plugin.
