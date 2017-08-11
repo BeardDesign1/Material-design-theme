@@ -1,6 +1,6 @@
 ## This theme is still worked on! I just don't need to update this repository since the theme has an auto update system.
 # Beard's Material Design Theme
-`v2.0.5` By Beard Design
+`v2.2.0` By Beard Design
 
 **[> Download](http://www.beard-design.com/discord-material-theme.html)  
 [> Material theme discord server](http://bit.ly/BMTserver)**
@@ -27,6 +27,39 @@ Go to the server, download the beta theme and give feedback when you have some.
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
 
 # Changelog:
+**v2.2.3**
+ - Bug Fixing.
+
+**v2.2.2**
+ - Bug Fixing.
+
+**v2.2.1**
+ - Themed the DirectDownload plugin.
+ - Themed the Server Sorter plugin.
+ - fixed a whole bunch of stuff
+ - Started using variables a lot more for more user customisation in the future.
+
+**v2.1.7**
+ - Bug fixing.
+
+**v2.1.6**
+ - Added more ripples in a bunch of places, click around and see.
+ - Changed the animation for the user popouts, pins/mentions and emoji panel.
+ - Added an 'out' animation for the user popouts, pins/mentions and emoji panel.
+ - Fixed the look of the chatbox in canary.
+ - Fixed some more bugs.
+
+**v2.1.5**
+- uuh fixed a lot of bugs and tweaked some stuff i guess,
+I took a pause for a while so idk everything I did .-.
+
+**v2.1.4**
+- Made bigger ripples on checkboxes and radio buttons.
+- Changed the right click animation(context menus).
+- added 'out' animations to the status menu and the server menu.
+- Fixed the new upload animation.
+- Bug fixing.
+
 **v2.1.3**
  - Fixed some bugs.
  - New upload animation.
