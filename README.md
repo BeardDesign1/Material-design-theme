@@ -27,6 +27,18 @@ Go to the server, download the beta theme and give feedback when you have some.
 ![Full size preview](https://bearddesign.s-ul.eu/klp9JVXJ.gif)
 
 # Changelog:
+**v2.2.4**
+ - Added [Patreon](https://www.patreon.com/BeardDesign) badges.
+ - Replaced the "open profile" text by an icon.
+ - Added an animation for new pms.
+ - Made settings animation close without delay(finally :D).
+ - Made the hover animation for images a cool shadow (better for gifs).
+ - Changed the look of the member list a bit.
+ - Fixed the look of switches in betterdiscord settings (thx Zerebos <3).
+ - Changed the icon for Quoter.
+ - Added nitro icons in member tab and over messages for nitro users.
+ - Bug fixing.
+
 **v2.2.3**
  - Bug Fixing.
 
